@@ -1,0 +1,31 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do Curso de JS com TDD na Prática",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilocgraciano/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Danilo C. Graciano <danilocgraciano@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danilocgraciano/js-tdd/issues"
+  },
+  "homepage": "https://github.com/danilocgraciano/js-tdd#readme"
+}
